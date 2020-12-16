@@ -1,0 +1,6 @@
+[submodule "ew496-sp2020-pak"]
+	path = ew496-sp2020-pak
+	url = git@github.com:usna-roboroach-2021/ew496-sp2020-pak.git
+[submodule "ew401-fa2020-roboroach"]
+	path = ew401-fa2020-roboroach
+	url = git@github.com:usna-roboroach-2021/ew401-fa2020-roboroach.git
