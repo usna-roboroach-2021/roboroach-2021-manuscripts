@@ -4,3 +4,6 @@
 [submodule "ew401-fa2020-roboroach"]
 	path = ew401-fa2020-roboroach
 	url = git@github.com:usna-roboroach-2021/ew401-fa2020-roboroach.git
+[submodule "fixed-ew401-fa2020-roboroach-ieee"]
+	path = fixed-ew401-fa2020-roboroach-ieee
+	url = git@github.com:usna-roboroach-2021/ew401-fa2020-roboroach-ieee.git
